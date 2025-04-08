@@ -1,0 +1,39 @@
+#nav_links 
+{ 
+	text-align: center; 
+} 
+
+main_right_col 
+{
+	width: 30%; 
+	margin: auto;
+} 
+
+main_left_col
+{
+	width: 30%; 
+	float: left; 
+} 
+
+body { 
+	background-image: url("Website-Backgroundd.jpg"); 
+} 
+
+p { 
+font-size: 20px; 
+} 
+
+p.copyright { 
+line-height: 15; 
+} 
+
+p.donation { 
+line-height: 10; 
+} 
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto%;
+}
